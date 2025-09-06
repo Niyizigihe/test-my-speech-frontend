@@ -1,4 +1,4 @@
-import React, { useRef, useState, type JSX } from "react";
+import { useRef, useState, type JSX } from "react";
 import "./App.css";
 import PassageSelector from "./components/PassageSelector";
 
